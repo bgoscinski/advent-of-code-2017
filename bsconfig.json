@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code-2017",
+  "version": "0.1.0",
+  "sources": [
+    {
+      "dir": "src",
+      "subdirs": true
+    }
+  ],
+  "package-specs": {
+    "module": "commonjs"
+  },
+  "entries": [
+    {
+      "backend": "native",
+      "main-module": "Index"
+    }
+  ],
+  "refmt": 3,
+  "ocaml-dependencies": ["threads"],
+  "ocamlfind-dependencies": ["core_kernel"],
+  "suffix": ".bs.js",
+  "bs-dependencies": []
+}
