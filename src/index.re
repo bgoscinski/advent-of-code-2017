@@ -29,3 +29,11 @@ S04.check();
 module G04 = Solution.Test(Gold04);
 
 G04.check();
+
+module S05 = Solution.Test(Silver05);
+
+S05.check();
+
+module G05 = Solution.Test(Gold05);
+
+G05.check();
