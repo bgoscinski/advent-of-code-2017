@@ -37,3 +37,11 @@ S05.check();
 module G05 = Solution.Test(Gold05);
 
 G05.check();
+
+module S06 = Solution.Test(Silver06);
+
+S06.check();
+
+module G06 = Solution.Test(Gold06);
+
+G06.check();
